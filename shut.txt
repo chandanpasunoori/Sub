@@ -1,0 +1,1 @@
+shutdown /s /m \\SERVER /d p:0:0 /c "Planned restart by Tim"
